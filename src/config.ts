@@ -30,7 +30,7 @@ export const LICENSE = "MIT licensed.";
 // will be used to identify your bluesky account, so that likes and comments can be shown on your posts
 export const BLUESKY_IDENTIFIER = "flo-bit.dev";
 
-export const SOURCE_LINK = 'https://github.com/flo-bit/blog-template';
+export const SOURCE_LINK = 'https://github.com/Mujahid33/mujahid-blog';
 
 // will be used to set the base color of the blog
 export const BASE_COLOR: BaseColor = "neutral";
@@ -52,9 +52,10 @@ export const SOCIAL_LINKS: {
   SHOW_RSS?: boolean;
 } = {
   SHOW_RSS: true,
-  BLUESKY_URL: "https://bsky.app/profile/flo-bit.dev",
-  GITHUB_URL: "https://github.com/flo-bit",
-  EMAIL: "flo.bit.dev@gmail.com",
+  GITHUB_URL: "https://github.com/mujahid33",
+  EMAIL: "mujahidislami030@gmail.com",
+  INSTAGRAM_URL: "https://www.instagram.com/mujahidipa",
+  LINKEDIN_URL: "https://www.linkedin.com/in/mujahid30/"
 };
 
 
